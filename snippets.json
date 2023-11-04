@@ -1,0 +1,17 @@
+{
+  "app listen": {
+    "prefix": "appListen",
+    "body": ["\"👽\""],
+    "description": "app listen type"
+  },
+  "register endpoint": {
+    "prefix": "registerEndpoint",
+    "body": ["\"🧜🏽‍♂️\""],
+    "description": " register endpoint type"
+  },
+  "register middleware": {
+    "prefix": "registerMiddleware",
+    "body": ["\"🦕\""],
+    "description": " register endpoint type"
+  }
+}
