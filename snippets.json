@@ -13,5 +13,10 @@
     "prefix": "registerMiddleware",
     "body": ["\"🦕\""],
     "description": " register endpoint type"
+  },
+  "app set": {
+    "prefix": "appSet",
+    "body": ["\"👑\""],
+    "description": "app set type"
   }
 }
